@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I live in the house- with the tin roof...
 Use the left arrow to go back!
